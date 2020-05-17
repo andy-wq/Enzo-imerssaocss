@@ -1,2 +1,2 @@
 # Enzo-imerssaocss
-Primeira versão do site com o curso imersãoCSS
+Primeira versão do site com o curso imersão CSS
