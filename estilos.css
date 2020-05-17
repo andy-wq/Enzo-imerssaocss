@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(70, 70, 70);
+  }
+  
+  .site-title {
+    color: whitesmoke;
+    font-family: monospace;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .menu a {
+    color: aquamarine;
+    text-decoration: none;
+    transition: background-color 2s, color 2s;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  .menu a:hover {
+    color: rgb(60, 60, 60);
+    background-color: aquamarine;
+  }
+    
+  .site-subtitle {
+    color: whitesmoke;
+    font-style: italic;
+  }
+  
+  .a {
+    color: whitesmoke;
+    font-style: italic;
+  }
+  
+  .menu {
+    background: rgb(60, 60, 60);
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around
+  }
+  
+  .menu a:active{
+    text-decoration: underline
+  }
